@@ -1,0 +1,42 @@
+@font-face {
+	font-family: Rubik;
+	font-style: normal;
+	font-weight: 400;
+	src: url(../fonts/rubik-v8-latin-regular.html);
+	src: local('Rubik'), local('Rubik-Regular'), url(../fonts/rubik-v8-latin-regulard41d.html?#iefix) format('embedded-opentype'), url(../fonts/rubik-v8-latin-regular-2.html) format('woff2'), url(../fonts/rubik-v8-latin-regular-3.html) format('woff'), url(../fonts/rubik-v8-latin-regular-4.html) format('truetype'), url(../fonts/rubik-v8-latin-regular-5.html#Rubik) format('svg')
+}
+@font-face {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 400;
+	src: url(../fonts/roboto-v19-latin-regular.html);
+	src: local('Roboto'), local('Roboto-Regular'), url(../fonts/roboto-v19-latin-regulard41d.html?#iefix) format('embedded-opentype'), url(../fonts/roboto-v19-latin-regular-2.html) format('woff2'), url(../fonts/roboto-v19-latin-regular-3.html) format('woff'), url(../fonts/roboto-v19-latin-regular-4.html) format('truetype'), url(../fonts/roboto-v19-latin-regular-5.html#Roboto) format('svg')
+}
+@font-face {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 400;
+	src: url(../fonts/poppins-v6-latin-regular.html);
+	src: local('Poppins Regular'), local('Poppins-Regular'), url(../fonts/poppins-v6-latin-regulard41d.html?#iefix) format('embedded-opentype'), url(../fonts/poppins-v6-latin-regular-2.html) format('woff2'), url(../fonts/poppins-v6-latin-regular-3.html) format('woff'), url(../fonts/poppins-v6-latin-regular-4.html) format('truetype'), url(../fonts/poppins-v6-latin-regular-5.html#Poppins) format('svg')
+}
+@font-face {
+	font-family: SourceSansPro;
+	font-style: normal;
+	font-weight: 600;
+	src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'), url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+@font-face {
+	font-family: 'Font Awesome 5 Free';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../webfonts/fa-regular-400.html);
+	src: url(../webfonts/fa-regular-400d41d.html?#iefix) format("embedded-opentype"), url(../webfonts/fa-regular-401.html) format("woff2"), url(../webfonts/fa-regular-402.html) format("woff"), url(../webfonts/fa-regular-403.html) format("truetype"), url(../webfonts/fa-regular-404.html#fontawesome) format("svg")
+}
+@font-face {
+	font-family: 'Font Awesome 5 Free';
+	font-style: normal;
+	font-weight: 900;
+	src: url(../webfonts/fa-solid-900.html);
+	src: url(../webfonts/fa-solid-900d41d.html?#iefix) format("embedded-opentype"), url(../webfonts/fa-solid-901.html) format("woff2"), url(../webfonts/fa-solid-902.html) format("woff"), url(../webfonts/fa-solid-903.html) format("truetype"), url(../webfonts/fa-solid-904.html#fontawesome) format("svg")
+}
